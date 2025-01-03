@@ -25,7 +25,7 @@ void printInstructions() {
     printf("\nInstructions:\n");
     printf("1. The game will choose a random word.\n");
     printf("2. You need to guess the word one letter at a time.\n");
-    printf("3. You have 3 wrong guesses before losing.\n");
+    printf("3. You have 5 wrong guesses before losing.\n");
     printf("4. If you guess all the letters correctly, you win.\n");
     printf("Press any key to return to the menu...\n");
     getch();
